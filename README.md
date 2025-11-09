@@ -6,24 +6,18 @@
 
 ## <u>Teamate</u> Project Background
 - ### 필요성
-  - OOO
-  - OOO
+  - 군사 환경에서 적극적으로 활용되어 발전하고 있는 드론 기술
+  - 드론의 사용이 점차 대중화될 것으로 예상
 - ### 기존 해결책의 문제점
-  - OOO
+  - 정해진 목표가 존재하지 않는 드론 조작 시뮬레이션
   - OOO
   
 ## System Design
   - ### System Requirements
-    - OOO
-    - OOO
+    - 드론 에이전트 학습 환경
+    - .onnx 뉴런 모델 적용 가능 시뮬레이션 환경
     
-## Case Study
-  - ### Description
-  
   
 ## Conclusion
-  - ### OOO
-  - ### OOO
-  
-## Project Outcome
-- ### 20XX 년 OO학술대회 
+  - ### 강화학습 성능 증가를 시각적으로 체험할 수 있는 교육용 시뮬레이터로 확장 가능
+  - ### 사용자의 드론 조작 능력 향상 가능
